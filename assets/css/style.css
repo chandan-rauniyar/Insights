@@ -11,6 +11,7 @@
 /* Here can chage any UI color or backgroun color not chage in position or any thing  */
 
 .popup {
+    padding-top: 15vh;
     display: none;
     position: fixed;
     top: 0;
